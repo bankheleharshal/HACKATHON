@@ -18,7 +18,7 @@ HM DESIGNS
       2.2.1 images/thumbnails-1.about-us
                               2.services1,2,3,4,5,6---8 (8images)
                               3.commercial services iamges(3 images)
-5. tech used
+5. tech used :HTML5,CSS,BOOTSTRAP4.6
 6. for logo creation- canva designs
 7. for banner images-Unsplash
 8. for icons-font awesome 
